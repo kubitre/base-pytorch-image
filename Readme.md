@@ -1,5 +1,7 @@
 # Simple pytorch docker image for GPU
 
+Base image with for base layer
+
 ## Dependency versions
 
 1. Pytorch - CUDA version: https://download.pytorch.org/whl/cu124
